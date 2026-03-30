@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning Practice
+# Machine Learning and Deep Learning 
 
 This repository contains coursework, practice exercises, and supporting code related to Machine Learning and Deep Learning.
 
