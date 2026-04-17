@@ -1,10 +1,10 @@
 # Machine Learning and Deep Learning 
 
-This repository contains coursework, practice exercises, and supporting code related to Machine Learning and Deep Learning.
+This folder contains coursework, practice exercises, and supporting code related to Machine Learning and Deep Learning.
 
 ## Overview
 
-The purpose of this repository is to document learning progress and reinforce fundamental concepts in machine learning and deep learning through practical implementation.
+The purpose of this repositort is  to document learning progress and reinforce fundamental concepts in machine learning and deep learning through practical implementation.
 
 
 ## Topics Covered
