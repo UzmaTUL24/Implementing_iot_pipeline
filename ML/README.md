@@ -4,7 +4,7 @@ This folder contains coursework, practice exercises, and supporting code related
 
 ## Overview
 
-The purpose of this repositort is  to document learning progress and reinforce fundamental concepts in machine learning and deep learning through practical implementation.
+The purpose of this repository is  to document learning progress and reinforce fundamental concepts in machine learning and deep learning through practical implementation.
 
 
 ## Topics Covered
